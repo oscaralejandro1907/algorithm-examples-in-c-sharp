@@ -15,3 +15,5 @@ This shows a clustering method based on the K-Means upon a set of Nodes in the e
 ## knapsack-greedy-heuristic
 Greedy Heuristic based on Ratios (Price/Weight) for the Knapsack Problem
 
+## dijkstra-shortest-path
+Shortest path problem solved by Dijkstra Algorithm. Source code and background available at: https://learn.microsoft.com/en-us/previous-versions/ms379574(v=vs.80)#datastructures20_5_topic3
