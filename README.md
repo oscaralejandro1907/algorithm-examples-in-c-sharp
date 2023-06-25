@@ -1,7 +1,7 @@
 # algorithm-examples-in-c-sharp
 
 ## grasp-orienteering-problem
-A Greedy Randomized Adaptive Search Procedure (GRASP) for finding the most rewarding path within a travel budget.
+A Greedy Randomized Adaptive Search Procedure (GRASP) for finding the most rewarding path within a travel budget. Orienteering is a sport in which start and end points are specified along with other locations. These other locations have associated scores. In a fixed amount of time, Competitors seek to visit, a subset of these locations on the way from the start point to the endpoint to maximize the total score.
 
 ## greedy-heuristic-set-covering
 A greedy heuristic to solve the set covering problem.
